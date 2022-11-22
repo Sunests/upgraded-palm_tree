@@ -22,3 +22,6 @@ time_list = [execution_time_calc_hist() for i in range(100)]
 print('max time ->', max(time_list))
 print('min time ->', min(time_list))
 print('mean time ->', sum(time_list) / 100)
+
+
+# trying commit here
